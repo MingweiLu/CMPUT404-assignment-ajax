@@ -18,7 +18,4 @@ https://stackoverflow.com/questions/45412228/sending-json-and-status-code-with-a
 https://flask.palletsprojects.com/en/2.0.x/api/#flask.redirect
 https://stackoverflow.com/questions/29299184/xmlhttprequest-send-js-object
 https://www.w3schools.com/js/js_ajax_http_send.asp
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
-
-
